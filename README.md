@@ -1,7 +1,7 @@
 # Mathematical_Models_of_Physics
 Here I will be updating all homeworks of MMoP - UNMSM - FCM
 
-Animations made using PyCharm Community
+Animations made using Python and IDE PyCharm Community Ver.
 
 Animation main functions:
 
